@@ -1,5 +1,5 @@
 import React, {Component, Fragment} from 'react';
-import './Navigation.css'
+import '../styles/Navigation.css'
 
 class Nav extends Component{
     render(){
