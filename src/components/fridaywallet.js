@@ -1,6 +1,6 @@
 import React from 'react'
 
-class wallet extends react.Component{
+class Wallet extends React.Component{
     render(){
         return(
             <div>
@@ -18,4 +18,4 @@ class wallet extends react.Component{
     }
 
 }
-export default wallet;
+export default Wallet;
