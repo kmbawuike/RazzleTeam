@@ -10,6 +10,7 @@ class razzle extends component(){
                     <li>FREEBIES</li>
                     <li>SIGN UP</li>
                     <button>click</button>
+                    <p>TeamRazzle going global</p>
 
                 </ul>
             </div>
