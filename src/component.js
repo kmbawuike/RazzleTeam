@@ -9,6 +9,7 @@ class razzle extends component(){
                     <li>SERVICES</li>
                     <li>FREEBIES</li>
                     <li>SIGN UP</li>
+                    <button>click</button>
 
                 </ul>
             </div>
